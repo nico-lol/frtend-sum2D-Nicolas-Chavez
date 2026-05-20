@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const telefonoField = ingresoForm.querySelector('[name="telefono"]');
     const empresaNombreField = ingresoForm.querySelector('[name="empresaNombre"]');
     const empresaCuitField = ingresoForm.querySelector('[name="empresaCuit"]');
-    const provinciaField = ingresoForm.querySelector('[name="provincia"]');
+    const regionField = ingresoForm.querySelector('[name="region"]');
     const localidadField = ingresoForm.querySelector('[name="localidad"]');
 
     function updateEmpresaFields() {
@@ -96,8 +96,8 @@ document.addEventListener('DOMContentLoaded', function () {
         const telefonoValid = telefonoPatternValid && telefonoDigitsCount >= 8;
         if (!setValidity(telefonoField, telefonoValid, 'Teléfono solo dígitos, +, guiones y espacios; mínimo 8 dígitos.')) return false;
 
-        const provinciaValid = provinciaField.value.trim() !== '';
-        if (!setValidity(provinciaField, provinciaValid, 'Debe seleccionar una provincia.')) return false;
+        const regionValid = regionField.value.trim() !== '';
+        if (!setValidity(regionField, regionValid, 'Debe seleccionar una región.')) return false;
 
         const localidadValid = localidadField.value.trim().length >= 2;
         if (!setValidity(localidadField, localidadValid, 'Localidad debe tener al menos 2 caracteres.')) return false;
