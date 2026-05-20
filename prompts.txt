@@ -1,0 +1,25 @@
+============================================================ CONSULTA
+#[1] Etapa del proyecto: [Etapa 1] Fecha:
+[20/05/2026] ------------------------------------------------------------
+PROMPT ENVIADO A COPILOT: [Necesito crear un sitio web que cuyos contenidos sean:
+- Una barra de navegación con el logo/nombre TechFix y enlaces a inicio, servicios, precios, nosotros e ingresar equipo (que sea hacia ingreso.html);
+- Una sección hero con imagen de fondo, título TechFix, slogan, botón principal y tres indicadores de confianza
+- Una sección de servicios con al menos seis tarjetas que incluyen icono, nombre, descripción y tiempo estimado] ------------------------------------------------------------
+RESPUESTA RECIBIDA (resumen breve): [Se creó index.html con barra de navegación, sección hero con imagen de fondo y botón, y tarjetas de servicios con descripciones y tiempos estimados.] ----------------------------------------------------------
+-- USO EN EL PROYECTO: [Tuve que modificar algunas palabras, ya que la IA no logra reconocer ciertos simbolos, ademas de reestructurar el codigo] ------------------------------------------------------
+------ REFLEXION PERSONAL: [Fue bastante util, no tuve muchos problemas al ver la pagina que copilot me entrego]
+============================================================
+
+============================================================ CONSULTA
+#[2] Etapa del proyecto: [Etapa 1] Fecha:
+[20/05/2026] ------------------------------------------------------------
+PROMPT ENVIADO A COPILOT: [Agrega al sitio web:
+- Una sección de marcas/dispositivos atendidos con al menos seis marcas
+- Una tabla de precios referenciales con al menos seis filas y estilo CSS
+- Una sección de testimonios con nombre, servicio recibido, comentario y calificación
+- Un footer con el nombre/logo, horarios, dirección, email, teléfono, WhatsApp, redes sociales y copyright.] ------------------------------------------------------------
+RESPUESTA RECIBIDA (resumen breve): [Se añadieron secciones de marcas atendidas, tabla de precios referenciales con 6 servicios, testimonios de 3 clientes y un footer completo con horarios, contacto y redes sociales.] ----------------------------------------------------------
+-- USO EN EL PROYECTO: [La mayoria del codigo que copilot entrego fue bueno, solo tuve un problema al implementar imagenes de las marcas] ------------------------------------------------------
+------ REFLEXION PERSONAL: [Cuando copilot busca imagenes por internet estas no suelen aparecer y se debe modificar el codigo para que aparezcan correctamente]
+============================================================
+
