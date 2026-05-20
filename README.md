@@ -1,0 +1,1 @@
+El proyecto consiste en desarrollar el sitio web de TechFix, un servicio técnico especializado en reparación y mantenimiento de computadoras de escritorio, notebooks, impresoras y dispositivos móviles. También incluye venta de repuestos, actualización de hardware y soporte remoto.
